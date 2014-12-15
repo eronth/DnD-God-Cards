@@ -1,8 +1,8 @@
+dimgray
+
 Druid Armor
 
-Mighty Sword
-
-Gold? Shadow Mask
+Gold(?) Shadow Mask
 
 Shadow Gloves
 
@@ -12,22 +12,30 @@ Cursed Ring
 
 Cursed Gauntlets
 
+<  5  =  Rising Hero    
+
+> 10  =  Heroic
+
+> 15  =  Epic
+
+  20  =  Legendary
 
 {
     "count": 1,
-    "color": "dimgray",
-    "title": "Full Plate",
-    "icon": "custom-armor-heavy",
+    "color": "lightning",
+    "title": "Mighty Sword",
+    "icon": "sword",
     "contents": [
-        "subtitle | Heavy armor (1500gp)",
+        "subtitle | Shocking Short sword",
         "rule",
-        "property | AC | 18",
-        "property | Strength required | 15",
-        "property | Stealth | Disadvantage",
+        "property | Damage | 1d8 Lighting",
+        "property | Weight | xxx lbs",
         "rule",
         "fill | 2",
-        "description | Heavy | Your speed is reduced by 10 feet.",
-        "description | Stealth | You have disadvantage on Stealth.",
-        "fill | 3"
+        "text | A shortsword with a bluish tint to it. Swinging it leaves a short trail of blue sparks and electricity."
+        "text | Whenever you damage a creature with this weapon, choose a creature within 5 feet not already being damaged. Use Arcing Bolt on the chosen creature." 
+        "description | Arcing Bolt | XX",
+        "section | Heroic Weapon",
+        "text | If your character is level 11 or higher, trigger Arcing Bolt a second time whenever you do damage."
     ]
 }
