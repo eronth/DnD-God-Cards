@@ -34,7 +34,7 @@ Cursed Gauntlets
         "property | Damage | 1d4 Lightning",
         "text | Roll a 1d20 and add your proficiency for the attack roll. No other modifiers are added to this attack.",
         "text | This attack does 1d6 Lightning damage.",
-        "text | <i>Damage dealt by Arcing Bolt triggers another instance of Arcing Bolt.</i>"
+        "text | <i>Damage dealt by Arcing Bolt triggers another instance of Arcing Bolt.</i>",
         "section | Epic Weapon",
         "text | If your character is level 11 or higher, trigger Arcing Bolt a second time whenever you deal damage."
     ]
