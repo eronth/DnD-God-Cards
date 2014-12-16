@@ -1,16 +1,61 @@
 Druid Armor
 Gold(?) Shadow Mask
-Shadow Gloves
 Cursed Ring
-Cursed Gauntlets
+living blade
+cuffs of f orksork
+tablet of screw nic
+crazy good finess bow
 
 
 <  5  =  Rising Hero    
 > 10  =  Heroic
 > 15  =  Epic
   20  =  Legendary
-
-
+{
+  "count": 1,
+  "color": "darkgrey",
+  "title": "Enchanted shortbow",
+  "icon": "bow",
+  "contents": [
+    "subtitle | Enchanted shortbow",
+    "rule",
+    "property | Damage | 1d6 Peircing",
+    "property | Weight | 2 lbs",
+    "property | Attributes | Ammunition (range 80/320), finesse, two-handed"
+    "rule",
+    "fill | 2",
+    "text | A shortsword with a bluish tint to it. Swinging it leaves a short trail of blue sparks and electricity.",
+    "text | Whenever you damage a creature with this weapon, choose a creature within 5 feet not already being damaged by your attack. Use Arcing Bolt on the chosen creature as an extension of the current attack.", 
+    "text | This attack does 1d6 Lightning damage.",
+    "section | Arcing Bolt",
+    "subtitle | Attack",
+    "property | Damage | 1d4 Lightning",
+    "text | Roll a 1d20 and add your proficiency for the attack roll. No other modifiers are added to this attack.",
+    "text | This attack does 1d6 Lightning damage.",
+    "text | <i>Damage dealt by Arcing Bolt triggers another instance of Arcing Bolt.</i>",
+    "section | Epic Weapon",
+    "text | If your character is level 11 or higher, trigger Arcing Bolt a second time whenever you deal damage."
+  ]
+}
+{
+  "count": 1,
+  "color": "black",
+  "title": "Necrotor",
+  "icon": "sword",
+  "contents": [
+    "subtitle | Swirling dark gauntlets",
+    "rule",
+    "property | Damage | 4d6 necrotic",
+    "property | Weight | 3 lbs",
+    "property | Charges | 1 max"
+    "rule",
+    "fill | 2",
+    "text | Gauntlets that appear to be composed of a swirling dark smoke, yet retain their shape.",
+    "text | You have resistance to radiant damage.",
+    "text | Use your action to focus for a turn. If you focus uninterupted for 2 turns, gain 1 charge at the start of your next turn.",
+    "text | If you attack while Necrotor is charged, negate all damage you would deal. Instead, deal <b>4d6 necrotic</b> damage with no modifiers.",
+  ]
+}
 {
   "count": 1,
   "color": "gold",
