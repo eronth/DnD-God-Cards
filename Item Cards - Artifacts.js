@@ -2,7 +2,6 @@ Druid Armor
 Gold(?) Shadow Mask
 Cursed Ring
 living blade
-cuffs of f orksork
 tablet of screw nic
 crazy good finess bow
 miri jax gar
@@ -12,6 +11,64 @@ the lyre!
 > 10  =  Heroic
 > 15  =  Epic
   20  =  Legendary
+  {
+  "count": 1,
+  "color": "lightning",
+  "title": "Mighty Sword",
+  "icon": "sword",
+  "contents": [
+    "subtitle | Shocking Short sword",
+    "rule",
+    "property | Damage | 1d6 Lighting",
+    "property | Weight | 3 lbs",
+    "property | Attributes | Finesse, light"
+    "rule",
+    "fill | 2",
+    "text | A shortsword with a bluish tint to it. Swinging it leaves a short trail of blue sparks and electricity.",
+    "text | Whenever you damage a creature with this weapon, choose a creature within 5 feet not already being damaged by your attack. Use Arcing Bolt on the chosen creature as an extension of the current attack.", 
+    "text | This attack does 1d6 Lightning damage.",
+    "section | Arcing Bolt",
+    "subtitle | Attack",
+    "property | Damage | 1d4 Lightning",
+    "text | Roll a 1d20 and add your proficiency for the attack roll. No other modifiers are added to this attack.",
+    "text | This attack does 1d6 Lightning damage.",
+    "text | <i>Damage dealt by Arcing Bolt triggers another instance of Arcing Bolt.</i>",
+    "section | Epic Weapon",
+    "text | If your character is level 11 or higher, trigger Arcing Bolt a second time whenever you deal damage."
+  ]
+}
+{
+  "count": 1,
+  "color": "lightning",
+  "title": "Crippling Cuff",
+  "icon": "equipment",
+  "contents": [
+    "subtitle | Cursed cuff.",
+    "rule",
+    "property | Weight | 0 lbs",
+    "property | Attributes | Curse"
+    "rule",
+    "fill | 2",
+    "text | A metal cuff with sections for chains to be attached. Enchanted to hold faster convicts.",
+    "text | While worn, your speed is reduced by 5."
+  ]
+}
+{
+  "count": 1,
+  "color": "darkgrey",
+  "title": "Weakening Cuff",
+  "icon": "equipment",
+  "contents": [
+    "subtitle | Cursed cuff.",
+    "rule",
+    "property | Weight | 0 lbs",
+    "property | Attributes | Curse"
+    "rule",
+    "fill | 2",
+    "text | A metal cuff with sections for chains to be attached. Enchanted to hold stronger convicts.",
+    "text | While worn, your strength is reduced by 1."
+  ]
+}
 {
   "count": 1,
   "color": "darkgrey",
