@@ -13,28 +13,22 @@ the lyre!
   20  =  Legendary
   {
   "count": 1,
-  "color": "lightning",
-  "title": "Mighty Sword",
-  "icon": "sword",
+  "color": "gold",
+  "title": "White Lyre",
+  "icon": "equipment",
   "contents": [
-    "subtitle | Shocking Short sword",
+    "subtitle | A beautiful white lyre with rainbow accents.",
     "rule",
-    "property | Damage | 1d6 Lighting",
-    "property | Weight | 3 lbs",
-    "property | Attributes | Finesse, light"
+    "property | Weight | xxx lbs",
+    "property | Attributes | Requires attunement (Bard)"
     "rule",
     "fill | 2",
-    "text | A shortsword with a bluish tint to it. Swinging it leaves a short trail of blue sparks and electricity.",
-    "text | Whenever you damage a creature with this weapon, choose a creature within 5 feet not already being damaged by your attack. Use Arcing Bolt on the chosen creature as an extension of the current attack.", 
-    "text | This attack does 1d6 Lightning damage.",
-    "section | Arcing Bolt",
-    "subtitle | Attack",
-    "property | Damage | 1d4 Lightning",
-    "text | Roll a 1d20 and add your proficiency for the attack roll. No other modifiers are added to this attack.",
-    "text | This attack does 1d6 Lightning damage.",
-    "text | <i>Damage dealt by Arcing Bolt triggers another instance of Arcing Bolt.</i>",
-    "section | Epic Weapon",
-    "text | If your character is level 11 or higher, trigger Arcing Bolt a second time whenever you deal damage."
+    "text | A lyre with a white base that fades from yellow to orange to red to purple at the top. The strings are each a different color, in rainbow order.",
+    "text | If you attempt to play the instrument without attunement, make succeed a DC 15 wisdome save or take 2d4 psychic damage.",
+    "text | As an action, play the instrument to cast one of its spells using your spellcasting abliity and spellcasting DC:",
+    "text | <i>Fly, invisibility, levitate, protection from evil and good, stone shape, wall of fire, wind wall</i>"
+    "text | Each spell can only be cast once per day.",
+    "text | <br>All spells cast with the lyre that would charm a creature causes that creature to have disadvantage on the save roll. This effect applies when casting the lyre's spells or when using the lyre as a focus.",
   ]
 }
 {
