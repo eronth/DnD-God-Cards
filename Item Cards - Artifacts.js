@@ -3,15 +3,30 @@ Gold(?) Shadow Mask
 Cursed Ring
 living blade
 tablet of screw nic
-crazy good finess bow
 miri jax gar
-the lyre!
 
 <  5  =  Rising Hero    
 > 10  =  Heroic
 > 15  =  Epic
   20  =  Legendary
-  {
+
+{
+  "count": 1,
+  "color": "lightning",
+  "title": "Enchanted Shortbow",
+  "icon": "sword",
+  "contents": [
+    "subtitle | Short bow",
+    "rule",
+    "property | Damage | 1d6 piercing",
+    "property | Weight | 3 lbs",
+    "property | Attributes | Ammunition (80/320), finesse, two-handed"
+    "rule",
+    "fill | 2",
+    "text | A basic shortbow crafted to work with the users strength or dexterity.",
+  ]
+}
+{
   "count": 1,
   "color": "gold",
   "title": "White Lyre",
