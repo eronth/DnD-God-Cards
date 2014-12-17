@@ -5,7 +5,8 @@ living blade
 cuffs of f orksork
 tablet of screw nic
 crazy good finess bow
-
+miri jax gar
+the lyre!
 
 <  5  =  Rising Hero    
 > 10  =  Heroic
