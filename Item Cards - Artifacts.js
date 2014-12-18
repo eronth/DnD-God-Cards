@@ -4,6 +4,11 @@ Cursed Ring
 living blade
 tablet of screw nic
 miri jax gar
+The Eye of Red Diamonds
+Cloak of jimpity jump jamp.
+Helm of Red Dragons
+Red Dragon Scale Armor
+
 
 <  5  =  Rising Hero    
 > 10  =  Heroic
