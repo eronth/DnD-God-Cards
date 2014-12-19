@@ -8,7 +8,7 @@ miri jax gar
 *Helm of Red Dragons
 *Red Dragon Scale Armor
 *Blade of the Fire Whip
-Tsuni's new box.
+Tsuni''s new box.
 
 <  5  =  Rising Hero    
 > 10  =  Heroic
