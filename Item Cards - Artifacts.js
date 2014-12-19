@@ -6,8 +6,10 @@ tablet of screw nic
 miri jax gar
 The Eye of Red Diamonds
 Cloak of jimpity jump jamp.
+Blood Talon - Deal (1d4)d(1d4+1) damage.
 Helm of Red Dragons
 Red Dragon Scale Armor
+Blade of the Fire Whip
 
 
 <  5  =  Rising Hero    
