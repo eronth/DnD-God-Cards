@@ -2,12 +2,6 @@ Druid Armor
 living blade
 tablet of screw nic
 miri jax gar
-*The Eye of Blood Diamonds
-*Cloak of jimpity jump jamp.
-*Blood Talon - Deal (1d4)d(1d4+1) damage.
-*Helm of Red Dragons
-*Red Dragon Scale Armor
-*Blade of the Fire Whip
 Tsuni''s new box.
 
 <  5  =  Rising Hero    
