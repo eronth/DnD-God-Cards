@@ -1,27 +1,62 @@
 Druid Armor
-Gold(?) Shadow Mask
-Cursed Ring
 living blade
 tablet of screw nic
 miri jax gar
-The Eye of Red Diamonds
-Cloak of jimpity jump jamp.
-Blood Talon - Deal (1d4)d(1d4+1) damage.
-Helm of Red Dragons
-Red Dragon Scale Armor
-Blade of the Fire Whip
-
+*The Eye of Blood Diamonds
+*Cloak of jimpity jump jamp.
+*Blood Talon - Deal (1d4)d(1d4+1) damage.
+*Helm of Red Dragons
+*Red Dragon Scale Armor
+*Blade of the Fire Whip
+Tsuni's new box.
 
 <  5  =  Rising Hero    
 > 10  =  Heroic
 > 15  =  Epic
   20  =  Legendary
-
+Gold(?) Shadow Mask
 {
   "count": 1,
-  "color": "lightning",
+  "color": "darkgrey",
+  "title": "Shatowgate",
+  "icon": "equipment",
+  "contents": [
+    "subtitle | Mask of Shadows",
+    "rule",
+    "Property | Charges | 3 max"
+    "property | Weight | 1 lbs",
+    "rule",
+    "fill | 2",
+    "text | A skull shaped mask that's been charred black. Possibly made of wood, possibly made of bone. WHo can say for sure?.",
+    "text | Gain advantage on intimidation checks against creatures with CR 2 or lower while wearing this mask.",
+    "text | You may spend one charge to link two shadows within 60 feet of you and 80 feet of each other. They remain linked for 12 hours.",
+    "text | Linked shadows have the following properties:<br>While completely inside one linked shadow, you may use your bonus action to instantly appear in the other.
+    <br>While standing in a linked shadow, you can see and hear from the other as though you are in that location as well there.
+    <br>While standing in a linked shadow, you have advantage to all hide checks.",
+    "text | You gain 1d2 charges at dawn."
+  ]
+}
+{
+  "count": 1,
+  "color": "darkgrey",
+  "title": "Ring of Greater Mediocrety",
+  "icon": "ring",
+  "contents": [
+    "subtitle | Jeweled Ring",
+    "rule",
+    "property | Weight | 0 lbs",
+    "property | Attributes | Cursed"
+    "rule",
+    "fill | 2",
+    "text | A silver banded ring with a white gem in the center. Either side of the central gem is adorned with 2 small blue gems.",
+    "text | Any time you would make a save roll, skill check, or attack roll, roll an additional two 1d20s. Drop the highest and lowest values before evaluating your roll."
+  ]
+}
+{
+  "count": 1,
+  "color": "darkgrey",
   "title": "Enchanted Shortbow",
-  "icon": "sword",
+  "icon": "bow",
   "contents": [
     "subtitle | Short bow",
     "rule",
