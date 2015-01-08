@@ -26,8 +26,8 @@ shadowstep bow
     "text | ",
     "text | A jet black sword able to act to the user's will.",
     "text | The blade has modes that can be chosen between; attack, defend, and dormant. You may switch the blade between modes as a bonus action.",
-    "text | While in attack mode, the blade takes its turn during the user's. When it attacks, the blade gets the user's proficiency bonus added to its damage.",
-    "text | ",
+    "text | While in attack mode, the blade occupies its own space and takes a turn during the user's. When it attacks, the blade gets the user's proficiency bonus added to its damage.",
+    "text | While in defend mode, the blade occupies the same space as the user, and grants +2 AC to the user.",
     "text | While dormant, the blade does not act and can be used as a regular sword."
   ]
 },
