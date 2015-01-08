@@ -8,7 +8,7 @@ Tsuni''s new box.
 > 10  =  Heroic
 > 15  =  Epic
   20  =  Legendary
-{
+[{
   "count": 1,
   "color": "darkgrey",
   "title": "Resetti Stone",
@@ -20,10 +20,10 @@ Tsuni''s new box.
     "property | Weight | 1 lbs",
     "rule",
     "fill | 2",
-    "text | You may mark a moment in time. For the next 24 hours, you can choose to revert to that time. You retain all memories of what you did before you reverted.",
+    "text | You may mark a moment in time and location in splace. For the next 24 hours, you can choose to revert to that time and space. You retain all memories of what you did before you reverted. The item is destroyed.",
     "text | You may use a charge to extend a mark by 92 hours. You regain 1 charge every 6 weeks."
   ]
-}
+},
 {
   "count": 1,
   "color": "darkgrey",
@@ -44,7 +44,7 @@ Tsuni''s new box.
     <br>While standing in a linked shadow, you have advantage to all hide checks.",
     "text | You gain 1d2 charges at dawn."
   ]
-}
+},
 {
   "count": 1,
   "color": "darkgrey",
@@ -60,7 +60,7 @@ Tsuni''s new box.
     "text | A silver banded ring with a white gem in the center. Either side of the central gem is adorned with 2 small blue gems.",
     "text | Any time you would make a save roll, skill check, or attack roll, roll an additional two 1d20s. Drop the highest and lowest values before evaluating your roll."
   ]
-}
+},
 {
   "count": 1,
   "color": "darkgrey",
@@ -76,7 +76,7 @@ Tsuni''s new box.
     "fill | 2",
     "text | A basic shortbow crafted to work with the users strength or dexterity.",
   ]
-}
+},
 {
   "count": 1,
   "color": "gold",
@@ -96,7 +96,7 @@ Tsuni''s new box.
     "text | Each spell can only be cast once per day.",
     "text | <br>All spells cast with the lyre that would charm a creature causes that creature to have disadvantage on the save roll. This effect applies when casting the lyre's spells or when using the lyre as a focus.",
   ]
-}
+},
 {
   "count": 1,
   "color": "lightning",
@@ -112,7 +112,7 @@ Tsuni''s new box.
     "text | A metal cuff with sections for chains to be attached. Enchanted to hold faster convicts.",
     "text | While worn, your speed is reduced by 5."
   ]
-}
+},
 {
   "count": 1,
   "color": "darkgrey",
@@ -128,7 +128,7 @@ Tsuni''s new box.
     "text | A metal cuff with sections for chains to be attached. Enchanted to hold stronger convicts.",
     "text | While worn, your strength is reduced by 1."
   ]
-}
+},
 {
   "count": 1,
   "color": "darkgrey",
@@ -154,7 +154,7 @@ Tsuni''s new box.
     "section | Epic Weapon",
     "text | If your character is level 11 or higher, trigger Arcing Bolt a second time whenever you deal damage."
   ]
-}
+},
 {
   "count": 1,
   "color": "black",
@@ -173,7 +173,7 @@ Tsuni''s new box.
     "text | Use your action to focus for a turn. If you focus uninterupted for 2 turns, gain 1 charge at the start of your next turn.",
     "text | If you attack while Necrotor is charged, negate all damage you would deal. Instead, deal <b>4d6 necrotic</b> damage with no modifiers.",
   ]
-}
+},
 {
   "count": 1,
   "color": "gold",
@@ -190,7 +190,7 @@ Tsuni''s new box.
     "text | You have resistance to force damage."
     "text | You have immunity to magic missile damage.",
   ]
-}
+},
 {
   "count": 1,
   "color": "lightning",
@@ -216,4 +216,4 @@ Tsuni''s new box.
     "section | Epic Weapon",
     "text | If your character is level 11 or higher, trigger Arcing Bolt a second time whenever you deal damage."
   ]
-}
+}]
