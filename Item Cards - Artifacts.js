@@ -2,7 +2,6 @@ Druid Armor
 living blade
 
 miri jax gar
-orb of long rest
 shadowstep bow
 
 <  5  =  Rising Hero    
@@ -10,6 +9,29 @@ shadowstep bow
 > 15  =  Epic
   20  =  Legendary
 [{
+  "count": 1,
+  "color": "darkgrey",
+  "title": "Slashy Slashington",
+  "icon": "equipment",
+  "contents": [
+    "subtitle | Living Blade",
+    "rule",
+    "Property | AC | 12",
+    "property | Damage | 1d8",
+    "property | Health | 20",
+    "property | Speed | 20",
+    "property | Weight | ??? lbs",
+    "rule",
+    "fill | 2",
+    "text | ",
+    "text | A jet black sword able to act to the user's will.",
+    "text | The blade has modes that can be chosen between; attack, defend, and dormant. You may switch the blade between modes as a bonus action.",
+    "text | While in attack mode, the blade takes its turn during the user's. When it attacks, the blade gets the user's proficiency bonus added to its damage.",
+    "text | ",
+    "text | While dormant, the blade does not act and can be used as a regular sword."
+  ]
+},
+{
   "count": 1,
   "color": "darkgrey",
   "title": "Orb of Long Rest",
@@ -20,11 +42,8 @@ shadowstep bow
     "property | Weight | 1 lbs",
     "rule",
     "fill | 2",
-    "text | A simple brown belt with a silver buckle depicting the Eye of Olimar.",
-    "text | Gain +2 dexterity AC when wearing light armor or no armor.",
-    "text | Gain advantage on dexterity saves.",
-    "section | Cursed",
-    "text | While completely submerged in water, the belt's weight is increased to 500 lbs."
+    "text | A glass orb filled with a smokey substance.",
+    "text | As an action, you can smash the orb to activate. When activated, you feel refreshed as though you had taken a long rest, including regaining all abilities that require a short or long rest to refresh."
   ]
 },
 {
