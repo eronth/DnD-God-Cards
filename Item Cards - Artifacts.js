@@ -2,7 +2,6 @@ Druid Armor
 living blade
 
 miri jax gar
-sink dex belt
 orb of long rest
 shadowstep bow
 
@@ -13,12 +12,30 @@ shadowstep bow
 [{
   "count": 1,
   "color": "darkgrey",
+  "title": "Orb of Long Rest",
+  "icon": "equipment",
+  "contents": [
+    "subtitle | Smokey Glass Orb",
+    "rule",
+    "property | Weight | 1 lbs",
+    "rule",
+    "fill | 2",
+    "text | A simple brown belt with a silver buckle depicting the Eye of Olimar.",
+    "text | Gain +2 dexterity AC when wearing light armor or no armor.",
+    "text | Gain advantage on dexterity saves.",
+    "section | Cursed",
+    "text | While completely submerged in water, the belt's weight is increased to 500 lbs."
+  ]
+},
+{
+  "count": 1,
+  "color": "darkgrey",
   "title": "Belt of Reflex",
   "icon": "equipment",
   "contents": [
     "subtitle | Enchanted Belt",
     "rule",
-    "property | Weight | 1 lbs",
+    "property | Weight | 0 lbs",
     "rule",
     "fill | 2",
     "text | A simple brown belt with a silver buckle depicting the Eye of Olimar.",
@@ -36,7 +53,7 @@ shadowstep bow
   "contents": [
     "subtitle | Enchanted Belt",
     "rule",
-    "property | Weight | 1 lbs",
+    "property | Weight | 0 lbs",
     "rule",
     "fill | 2",
     "text | A simple brown belt with a silver buckle depicting the Eye of Olimar.",
