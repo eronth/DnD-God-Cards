@@ -1,14 +1,50 @@
 Druid Armor
 living blade
-tablet of screw nic
+
 miri jax gar
-Tsuni''s new box.
+sink dex belt
+orb of long rest
+shadowstep bow
 
 <  5  =  Rising Hero    
 > 10  =  Heroic
 > 15  =  Epic
   20  =  Legendary
 [{
+  "count": 1,
+  "color": "darkgrey",
+  "title": "Belt of Reflex",
+  "icon": "equipment",
+  "contents": [
+    "subtitle | Enchanted Belt",
+    "rule",
+    "property | Weight | 1 lbs",
+    "rule",
+    "fill | 2",
+    "text | A simple brown belt with a silver buckle depicting the Eye of Olimar.",
+    "text | Gain +2 dexterity AC when wearing light armor or no armor.",
+    "text | Gain advantage on dexterity saves.",
+    "section | Cursed",
+    "text | While completely submerged in water, the belt weight is increased to 500 lbs."
+  ]
+},
+{
+  "count": 1,
+  "color": "darkgrey",
+  "title": "Belt of Reflex",
+  "icon": "equipment",
+  "contents": [
+    "subtitle | Enchanted Belt",
+    "rule",
+    "property | Weight | 1 lbs",
+    "rule",
+    "fill | 2",
+    "text | A simple brown belt with a silver buckle depicting the Eye of Olimar.",
+    "text | Gain +2 dexterity AC when wearing light armor or no armor.",
+    "text | Gain advantage on dexterity saves."
+  ]
+},
+{
   "count": 1,
   "color": "darkgrey",
   "title": "Resetti Stone",
@@ -20,6 +56,7 @@ Tsuni''s new box.
     "property | Weight | 1 lbs",
     "rule",
     "fill | 2",
+    "text | A stone tablet covered in engraved runes, which appears to possibly have a slight purple aura to the owner. The runes are indecipherable.",
     "text | You may mark a moment in time and location in splace. For the next 24 hours, you can choose to revert to that time and space. You retain all memories of what you did before you reverted. The item is destroyed.",
     "text | You may use a charge to extend a mark by 92 hours. You regain 1 charge every 6 weeks."
   ]
