@@ -21,7 +21,7 @@ miri jax gar
     "fill | 2",
     "text | An ebony bow with simple lotus patterns carved.",
     "text | Whenever you use a ranged attack with the bow, but before you make your attack roll, you can choose to perform an infiltrator shot.",
-    "text | Infiltrator Shot: ATeleport to or next to the arrow when i"
+    "text | Infiltrator Shot: When the arrow ceases moving, you teleport to the nearest location to the arrow within 10 feet, and the arrow vanishes."
   ]
 },
 {
