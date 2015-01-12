@@ -5,39 +5,21 @@ Blood Talon - Deal (1d4)d(1d4+1) damage.
 Helm of Red Dragons
 Red Dragon Scale Armor
 
-{
+[
   	{
 		"count": 1,
-		"color": "dimgray",
-		"title": "Infiltrator's Bow",
-		"icon": "pocket-bow",
+		"color": "maroon",
+		"title": "Blade of the Fire Whip",
+		"icon": "some sort of sword",
 		"contents": [
-			"subtitle | Shadowstep Shortbow",
+			"subtitle | A fiery blade",
 			"rule",
-			"property | Attributes | Ammunition (range 80/320), two-handed",
-			"property | Damage | 1d6 piercing",
-			"property | Weight | 2 lbs",
+			"property | Attributes | Versatile (1d10)",
+			"property | Damage | 1d8 fire",
+			"property | Weight | 3 lbs",
 			"rule",
-			"text | <br>An ebony bow with simple lotus patterns carved.",
-			"text | Whenever you use a ranged attack with the bow, but before you make your attack roll, you can choose to perform an infiltrator shot in place of your regular attack.",
-			"section | <br>Infiltrator Shot","text | This attack enchants the arrow being fired from the bow.",
-			"text | When the arrow ceases moving, you teleport to the nearest location to the arrow within 10 feet, and the arrow vanishes.",
-			"text | Infiltrator shot deals damage as though it were a normal attack."
+			"text | <br>A flaming sword that can transform into a whip.",
+			"text | You can use an action to extend the fire from this blade into a whip that deals <b><1d4</b> damage and has <b>15 foot reach</b>. You have disadvantage on all attacks with this weapon in a 5 foot range until you use an action to retract the whip."
 		]
-	},
-  "count": 1,
-  "color": "red",
-  "title": "Blade of the Fire Whip",
-  "icon": "sword",
-  "contents": [
-    "subtitle | A fiery blade",
-    "rule",
-    "Property | Attributes | Versatile (1d10)",
-    "Property | Damage | 1d8 fire",
-    "property | Weight | 3 lbs",
-    "rule",
-    "fill | 2",
-    "text | A flaming sword that can transform into a whip.",
-    "text | You can use an action to extend the fire from this blade into a whip that deals <b><1d4</b> damage and has <b>15 foot reach</b>. You have disadvantage on all attacks with this weapon in a 5 foot range until you use an action to retract the whip."
-  ]
-}
+	}
+]
