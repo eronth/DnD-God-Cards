@@ -14,7 +14,12 @@ Red Dragon Scale Armor
   		"contents": [
   			"subtitle | Helm of Firebreathing",
   			"rule",
-  			
+  			"property | Damage | 2d4 fire",
+  			"property | Weight | 1 lbs",
+  			"rule",
+  			"text | A red dragonscale helm fashioned to mildly reflect the look of a dragon's head. The helm's mouthpiece can be removed.",
+  			"text | If the mouthpiece of the helm is equipped, you may speak draconic. If the mouthpiece of the helm is removed, you are able to make a dragon breath attack.",
+  			"section | Dragon Breath","text |  "
   		]
   	},
   	{
