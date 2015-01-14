@@ -7,10 +7,21 @@ Red Dragon Scale Armor
 
 [
   	{
+  		"count": 1,
+  		"color": "maroon",
+  		"title": "Helm of the Red Dragon",
+  		"icon": "brutal-helm",
+  		"contents": [
+  			"subtitle | Helm of Firebreathing",
+  			"rule",
+  			
+  		]
+  	},
+  	{
 		"count": 1,
 		"color": "maroon",
 		"title": "Blade of the Fire Whip",
-		"icon": "some sort of sword",
+		"icon": "???",
 		"contents": [
 			"subtitle | A fiery blade",
 			"rule",
