@@ -1,8 +1,8 @@
 The Eye of Blood Diamonds
 Cloak of jimpity jump jamp.
-Blood Talon - Deal (1d4)d(1d4+1) damage.
+Blood Talon - Deal (1d4)d(1d4+1) or perhapse 1d4! damage.
 
-Helm of Red Dragons
+
 Red Dragon Scale Armor
 
 [
@@ -14,12 +14,13 @@ Red Dragon Scale Armor
   		"contents": [
   			"subtitle | Helm of Firebreathing",
   			"rule",
-  			"property | Damage | 2d4 fire",
+  			"property | Damage | 3d6 fire",
+  			"property | Save | DC 10 Con",
   			"property | Weight | 1 lbs",
   			"rule",
   			"text | A red dragonscale helm fashioned to mildly reflect the look of a dragon's head. The helm's mouthpiece can be removed.",
   			"text | If the mouthpiece of the helm is equipped, you may speak draconic. If the mouthpiece of the helm is removed, you are able to make a dragon breath attack.",
-  			"section | Dragon Breath","text |  "
+  			"section | Dragon Breath","text |  You may use a fire breath attack dealing 3d6 fire damage in a 15 foot cone. Creatures in the attack can make a DC 10 CON save to take half damage."
   		]
   	},
   	{
