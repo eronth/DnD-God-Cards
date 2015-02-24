@@ -1,11 +1,34 @@
 The Eye of Blood Diamonds
 Cloak of jimpity jump jamp.
-Blood Talon - Deal (1d4)d(1d4+1) or perhapse 1d4! damage.
 
 
 Red Dragon Scale Armor
 
 [
+	{
+  		"count": 1,
+  		"color": "maroon",
+  		"title": "Blood Talon",
+  		"icon": "brutal-helm",
+  		"contents": [
+  			"subtitle | Dagger of Venom",
+  			"rule",
+  			"property | Attributes | Finesse, light, thrown (range 20/60)",
+  			"property | Damage | 1d4+1 piercing",
+  			"property | Improvement | Magic",
+  			"property | Save | DC 15 Con",
+  			"property | Weight | 1 lbs",
+  			"rule",
+  			"text | <i>This slender dagger is curved similar to a large talon. The poison produced is deep red in color, akin to blood.</i>",
+  			"rule",
+  			"text | This weapon has +1 to attack rolls.",
+  			"text | As an action, you can coat this weapon in a poison that lasts 1 minute or until you hit someone with it. You can use this action once per day.",
+  			"text | A creature hit with the poison must succeed a saving throw or take <b>2d10 poison</b> damage and be poisoned for 1 minute."
+  		]
+  	},
+  	
+  	
+  	
   	{
   		"count": 1,
   		"color": "maroon",
