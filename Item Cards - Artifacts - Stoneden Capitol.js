@@ -1,5 +1,3 @@
-The Eye of Blood Diamonds
-
 [
 	{
   		"count": 1,
@@ -33,6 +31,19 @@ The Eye of Blood Diamonds
   			"text | <i>This deep red cloak, which smells faintly of brimstone, has gold trim and fastners near the neck.</i>",
   			"rule",
   			"text | Once per day, if your hood is up, you can cast the <i>dimension door</i> spell as an action. Upon casting dimension door, a puff of red smoke is conjured at the locations of where you dissapeared from and appeard to. The smoke smells of brimstone, and can be dissapated with wind."
+  		]
+  	},
+  	{
+  		"count": 1,
+  		"color": "indianred",
+  		"title": "The Eye of the Blood Diamond",
+  		"icon": "brutal-helm",
+  		"contents": [
+  			"subtitle | Gem of Deceit and Violence",
+  			"rule",
+  			"text | <i>A palm-sized, eye-shaped golden trinket with a carved red stone as the iris, and jet black gem for the pupil.</i>",
+  			"rule",
+  			"text | You inherently know the location of any money or jewels that has had blood spilled over it."
   		]
   	},
   	
