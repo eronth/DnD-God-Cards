@@ -1,5 +1,4 @@
 The Eye of Blood Diamonds
-Cloak of jimpity jump jamp.
 
 [
 	{
@@ -21,6 +20,19 @@ Cloak of jimpity jump jamp.
   			"text | This weapon has +1 to attack rolls.",
   			"text | As an action, you can coat this weapon in a poison that lasts 1 minute or until you hit someone with it. You can use this action once per day.",
   			"text | A creature hit with the poison must succeed a saving throw or take <b>2d10 poison</b> damage and be poisoned for 1 minute."
+  		]
+  	},
+  	{
+  		"count": 1,
+  		"color": "indianred",
+  		"title": "Cape of the Mountebank",
+  		"icon": "brutal-helm",
+  		"contents": [
+  			"subtitle | Cloak of Traversal",
+  			"rule",
+  			"text | <i>This deep red cloak, which smells faintly of brimstone, has gold trim and fastners near the neck.</i>",
+  			"rule",
+  			"text | Once per day, if your hood is up, you can cast the <i>dimension door</i> spell as an action. Upon casting dimension door, a puff of red smoke is conjured at the locations of where you dissapeared from and appeard to. The smoke smells of brimstone, and can be dissapated with wind."
   		]
   	},
   	
