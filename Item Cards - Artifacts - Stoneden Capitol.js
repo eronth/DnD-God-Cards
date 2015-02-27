@@ -1,9 +1,6 @@
 The Eye of Blood Diamonds
 Cloak of jimpity jump jamp.
 
-
-Red Dragon Scale Armor
-
 [
 	{
   		"count": 1,
@@ -28,7 +25,25 @@ Red Dragon Scale Armor
   	},
   	
   	
-  	
+  	{
+  		"count": 1,
+  		"color": "maroon",
+  		"title": "Red Dragon Scale Mail",
+  		"icon": "brutal-helm",
+  		"contents": [
+  			"subtitle | Draconic medium scale mail",
+  			"rule",
+  			"property | AC | 15+Dex mod (max 2)",
+  			"property | Attributes | Stealth Disadvantage",
+  			"property | Weight | 45 lbs",
+  			"rule",
+  			"text | This scale mail is made from discarded or gifted scales of a red dragon.",
+  			"rule",
+  			"text | You have advantage on saves against a dragon's frightful presence and breath weapons.",
+  			"text | You have resistance to Fire damage.",
+  			"text | Once per day, as an action, you can detect the direction and distance to the closest red dragon within 30 miles of you."
+  		]
+  	},
   	{
   		"count": 1,
   		"color": "maroon",
@@ -41,7 +56,7 @@ Red Dragon Scale Armor
   			"property | Save | DC 10 Con",
   			"property | Weight | 1 lbs",
   			"rule",
-  			"text | A red dragonscale helm fashioned to mildly reflect the look of a dragon's head. The helm's mouthpiece can be removed.",
+  			"text | <i>A red dragonscale helm fashioned to mildly reflect the look of a dragon's head. The helm's mouthpiece can be removed.</i>",
   			"text | If the mouthpiece of the helm is equipped, you may speak draconic. If the mouthpiece of the helm is removed, you are able to make a dragon breath attack.",
   			"section | Dragon Breath","text |  You may use a fire breath attack dealing 3d6 fire damage in a 15 foot cone. Creatures in the attack can make a DC 10 CON save to take half damage."
   		]
@@ -58,7 +73,8 @@ Red Dragon Scale Armor
 			"property | Damage | 1d8 fire",
 			"property | Weight | 3 lbs",
 			"rule",
-			"text | <br>A flaming sword that can transform into a whip.",
+			"text | <i>A flaming sword that can transform into a whip.</i>",
+			"rule",
 			"text | You can use an action to extend the fire from this blade into a whip that deals <b><1d4</b> damage and has <b>15 foot reach</b>. You have disadvantage on all attacks with this weapon in a 5 foot range until you use an action to retract the whip."
 		]
 	}
